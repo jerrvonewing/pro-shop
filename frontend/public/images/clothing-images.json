@@ -1,0 +1,123 @@
+{
+    "T-Shirt": [
+      {
+        "id": 4,
+        "name": "Premium Cotton V-Neck T-Shirt",
+        "price": 29.99,
+        "description": "A high-quality V-neck t-shirt made from premium cotton. A staple for your casual wardrobe.",
+        "color": "Black",
+        "size": "L",
+        "brand": "EleganceStyle",
+        "material": "100% Pima Cotton",
+        "image_url": "https://example.com/images/vneck-tshirt-black.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Classic White Pocket Tee",
+        "price": 24.99,
+        "description": "The timeless white pocket tee, a versatile addition to your wardrobe.",
+        "color": "White",
+        "size": "S",
+        "brand": "PureEssence",
+        "material": "Cotton",
+        "image_url": "https://example.com/images/pocket-tshirt-white.jpg"
+      }
+    ],
+    "Sweater": [
+      {
+        "id": 14,
+        "name": "Cashmere Pullover Sweater",
+        "price": 129.99,
+        "description": "An elegant cashmere pullover sweater for a touch of luxury and warmth.",
+        "color": "Charcoal",
+        "size": "M",
+        "brand": "LuxuryKnits",
+        "material": "100% Cashmere",
+        "image_url": "https://example.com/images/cashmere-sweater-charcoal.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Cozy Cable-Knit Sweater",
+        "price": 79.99,
+        "description": "A cozy cable-knit sweater that combines warmth and style for the cold season.",
+        "color": "Navy",
+        "size": "L",
+        "brand": "WinterWarmth",
+        "material": "Wool Blend",
+        "image_url": "https://example.com/images/cable-knit-sweater-navy.jpg"
+      }
+    ],
+    "Shoes": [
+      {
+        "id": 21,
+        "name": "Leather Oxford Dress Shoes",
+        "price": 89.99,
+        "description": "Classic leather oxford dress shoes for a sharp and sophisticated look.",
+        "color": "Black",
+        "size": "US 10",
+        "brand": "ElegantSteps",
+        "material": "Genuine Leather",
+        "image_url": "https://example.com/images/oxford-shoes-black.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Athletic Running Shoes",
+        "price": 59.99,
+        "description": "Performance-oriented athletic running shoes for fitness enthusiasts.",
+        "color": "Blue/White",
+        "size": "US 9.5",
+        "brand": "ActiveStride",
+        "material": "Mesh/Synthetic",
+        "image_url": "https://example.com/images/running-shoes-blue.jpg"
+      }
+    ],
+    "Pants": [
+      {
+        "id": 30,
+        "name": "Slim Fit Chino Pants",
+        "price": 44.99,
+        "description": "Slim fit chino pants that strike the perfect balance between style and comfort.",
+        "color": "Khaki",
+        "size": "32/32",
+        "brand": "UrbanChic",
+        "material": "Cotton/Spandex Blend",
+        "image_url": "https://example.com/images/chino-pants-khaki.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Cargo Jogger Pants",
+        "price": 54.99,
+        "description": "Stylish cargo jogger pants with multiple pockets for a trendy urban look.",
+        "color": "Olive",
+        "size": "M",
+        "brand": "StreetSmart",
+        "material": "Cotton",
+        "image_url": "https://example.com/images/cargo-pants-olive.jpg"
+      }
+    ],
+    "Hats": [
+      {
+        "id": 40,
+        "name": "Wool Fedora Hat",
+        "price": 34.99,
+        "description": "A classic wool fedora hat for a touch of timeless style.",
+        "color": "Gray",
+        "size": "One Size",
+        "brand": "ClassicElegance",
+        "material": "Wool",
+        "image_url": "https://example.com/images/fedora-hat-gray.jpg"
+      },
+      {
+        "id": 44,
+        "name": "Beanie Hat with Pom Pom",
+        "price": 19.99,
+        "description": "A cozy beanie hat with a stylish pom pom for added flair.",
+        "color": "Navy",
+        "size": "One Size",
+        "brand": "WinterCharm",
+        "material": "Acrylic",
+        "image_url": "https://example.com/images/beanie-hat-navy.jpg"
+      }
+    ]
+  }
+  
