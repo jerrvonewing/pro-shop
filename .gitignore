@@ -1,0 +1,8 @@
+# Node modules
+/frontend/node_modules/
+
+# Virtual Environment
+/venv/
+
+/backend/*/__pycache__/
+/backend/backend/settings.py
