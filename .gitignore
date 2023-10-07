@@ -5,4 +5,5 @@
 /venv/
 
 /backend/*/__pycache__/
-/backend/backend/settings.py
+
+**/settings.py
