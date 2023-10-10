@@ -18,10 +18,16 @@ function Product({ product }) {
                 </Card.Title>
             </Link>
             <Card.Text as="div">
-                <div className='my-3'>
-                    {product.rating} from {product.numReviews} reviews
-                    <Rating value={product.rating} text={`${product.numReviews} reviews`} color={'#F8E825'}/>
-                </div>
+                {product.rating !== null && product.rating !== 0 ? (  
+                    <div className='my-3'>
+                        {product.rating} from {product.numReviews} reviews
+                        <Rating value={product.rating} text={`${product.numReviews} reviews`} color={'#F8E825'}/>
+                    </div>) : (
+                    <div className='my-3'>
+
+                        <Rating value={product.rating} text={`${product.numReviews} reviews`} color={'#F8E825'}/>
+                    </div>
+                )}
             </Card.Text>
             <Card.Text as="h3">
                 ${product.price}
